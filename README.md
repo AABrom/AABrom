@@ -6,6 +6,8 @@
 
 <br> ✔️ 2022-2024 🎓 Data Science, Moscow Institute of Physics and Technology (MIPT), national research university // МФТИ </br>
 <br> ✔️ 2016-2022 🎓 Clinical medicine, First Moscow State Medical University (Sechenov University) // Первый Московский государственный медицинский университет имени И. М. Сеченова (Сеченовский Университет) </br>
+<br> 🥉 09.09.2024 3rd place: ADMET hackaton, Innopolis university // Призёр командного хакатона по предсказанию ADMET-свойств молекул от Университета Иннополис </br>
+<
 <br> 👩🏻‍🔬 2024 Scientific report & paper: Deep learning-based prediction of knee osteoarthritis severity score using histopathological images of bone-cartilage specimens and YOLOv8 // Классификация гистологических препаратов хряща коленного сустава по степени тяжести гонартроза с помощью глубокого обучения на основе YOLOv8, [Патогенез 2024](http://pathogenesis.pro/index.php/pathogenesis/article/view/803), II межинститутский научный семинар  </br>
 
 <br> 🔬 2024 [YOLOv8m neuron detection](https://github.com/chistotinsa/YOLOv8m_neuron_detection) </br>
