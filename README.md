@@ -1,6 +1,6 @@
 <h1 align="center"> I'm Anastasia Bromberg 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Flutter Developer in Inmedikum // MTS Data Science School Student </h3>
+<h3 align="center">Flutter Developer // MTS Data Science School Student </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
