@@ -6,4 +6,3 @@
 
 <br> ✔️ 2022-2024 🎓 Data analysis in medicine, Moscow Institute of Physics and Technology (MIPT), national research university, master degree // МФТИ </br>
 <br> ✔️ 2016-2022 🎓 Clinical medicine, First Moscow State Medical University (Sechenov University) // Первый Московский государственный медицинский университет имени И. М. Сеченова (Сеченовский Университет) </br>
-<br> 🥉 2024 3rd place: ADMET hackaton, Innopolis university // Призёр командного хакатона по предсказанию ADMET-свойств молекул от Университета Иннополис </br>
