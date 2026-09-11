@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-<br> XP 2025 - now: Data Scientist,SOGAZ: Classic ML, RecSys, NLP </br>
+<br> XP 2025 - now: Data Scientist, SOGAZ: Classic ML, RecSys, NLP </br>
 
 <br> XP 2025: Trainee, Imedikum </br>
 
